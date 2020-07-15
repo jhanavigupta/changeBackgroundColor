@@ -1,0 +1,30 @@
+*{
+    margin:0 auto;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+html,
+body{
+    max-width: 100%;
+    text-rendering: optimizeLegibility;
+    text-align: center;
+}
+
+.btn{
+    margin-top: 50vh;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+.btn-click{
+    padding: 1%;
+    Font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 30px;
+    border: 2px solid #000;
+    background-color: #000;
+    color: #fff;
+}
